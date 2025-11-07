@@ -1,4 +1,4 @@
-FDSecure Encryptor APT Repository (FloriDevs)
+FloriDevs Apt Key:
 
 This repository provides easy installation and automatic updates for the FDSecure Encryptor Java application on Debian and Ubuntu based Linux distributions.
 
